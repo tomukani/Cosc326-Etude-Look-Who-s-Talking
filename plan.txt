@@ -1,0 +1,7 @@
+check for brackets
+if no backets, check first word
+if I, subject is speaker
+if we subject is speaker/listneer
+
+If there are brackets find each 'excl' or 'incl' and pair quoted with first word to determine exclusions
+Use number as well
